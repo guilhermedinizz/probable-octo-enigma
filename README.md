@@ -49,4 +49,6 @@ Alterando as propriedades no pow.xml para:
 
 Para alterar o nivel dos logs, basta adicionar no `application.properties`: logging.level.root=DEBUG
 
+### Relatório
 
+Esta localizado em `target/cucumber-reports`
