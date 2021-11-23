@@ -23,7 +23,7 @@ IDE: `src/test/java/com/guilherme/accenture/AccentureApplicationTests.java`
 
 ### Existe também a possibilidade de trocar o navegador facilmente por variavel de sistemas.
 
-Automação suporta Chrome (chrome), Chrome em headless (chromeheadless) e Firefox
+Automação suporta Chrome (chrome), Chrome em headless (chromeheadless) e Firefox (firefox)
 
 - Browser: -Dbrowser=navegadorDesejado
 
