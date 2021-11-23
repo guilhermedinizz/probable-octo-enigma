@@ -15,7 +15,7 @@
 
 # Para executar
 
-IDE: `src/test/java/com/guilherme/accenture/AccentureApplication.java`
+IDE: `src/test/java/com/guilherme/accenture/AccentureApplicationTests.java`
 
 ## Pelo maven
 
